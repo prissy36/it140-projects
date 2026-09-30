@@ -7,11 +7,11 @@
 
 **Theme:**
 
-Journey of Faith is a Christian-themed adventure game. The player begins at a Church and goes on a journey of faith with the goal of reaching Heaven. Along the way, the player must collect items that will strengthen their faith and help them overcome the Devil, who is trying to stop them and lead them toward Hell..
+Journey of Faith is a Christian-themed adventure game. The player begins at a Church and goes on a journey of faith with the goal of reaching Heaven. Along the way, the player must collect items that will strengthen their faith and help them overcome the Devil, who is trying to stop them and lead them toward Hell.
 
 **Storyline:**
 
-My game is called Journey of Faith. The theme of my game is Christianity. The player begins at the Church and goes on a journey to reach Heaven. Along the way, the player must travel through different rooms and collect seven items that will help strengthen their faith. The items are the Bible, Cross, Prayer Book, Shield of Faith, Armor of God, Lamp, and Crown of Life. The Devil is the villain and tries to stop the player from reaching Heaven and lead the player toward Hell. The player must collect all seven items to complete their journey. If the player encounters the Devil before collecting the required items, the player loses and is taken to Hell. If the player avoids the Devil and collects all seven items, the player completes their journey and reaches Heaven.
+My game is called Journey of Faith. The theme of my game is Christianity. The player begins at the Church and goes on a journey to reach Heaven. Along the way, the player must travel through different rooms and collect seven items that will help strengthen their faith. The items are the Bible, Cross, Prayer, Shield of Faith, Armor of God, Lamp, and Crown of Life. The Devil is the villain and tries to stop the player from reaching Heaven and lead the player toward Hell. The player must collect all seven items to complete their journey. If the player encounters the Devil before collecting the required items, the player loses and is taken to Hell. If the player avoids the Devil and collects all seven items, the player completes their journey and reaches Heaven.
 
 Project One requires a minimum of eight rooms.
 
@@ -30,26 +30,26 @@ With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
 1. Bible: Item
-2. Prayer: Item
-3. Faith: Item
-4. Worship: Item
-5. Armor: Item
+2. Cross: Item
+3. Prayer: Item
+4. Shield of Faith: Item
+5. Armor of God: Item
 6. Lamp: Item
-7. Crown of life
+7. Crown of Life: Item
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-The Devil is the villain in my game. He is trying to stop the player from completing their journey of faith and reaching Heaven. If the player encounters the Devil before collecting all six items, the player loses the game and is taken to Hell.
+The Devil is the villain in my game. He is trying to stop the player from completing their journey of faith and reaching Heaven. If the player encounters the Devil before collecting all seven items, the player loses the game and is taken to Hell.
 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
+* [ ] I included nine (9) rooms.
+* [ ] I included seven (7) collectable items.
 * [ ] The start room has no item.
 * [ ] The villain room has no item.
 * [ ] Every room except the start room and villain room contains one item.
