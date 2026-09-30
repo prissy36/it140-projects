@@ -7,46 +7,41 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Journey of Faith is a Christian-themed adventure game. The player begins at a Church and goes on a journey of faith with the goal of reaching Heaven. Along the way, the player must collect items that will strengthen their faith and help them overcome the Devil, who is trying to stop them and lead them toward Hell..
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
-
-## Rooms
+My game is called Journey of Faith. The theme of my game is Christianity. The player begins at the Church and goes on a journey to reach Heaven. Along the way, the player must travel through different rooms and collect six items that will help strengthen their faith. The items are the Bible, Cross, Prayer Book, Shield of Faith, Armor of God, and Lamp. The Devil is the villain and tries to stop the player from reaching Heaven and lead the player toward Hell. The player must collect all six items before encountering the Devil. If the player encounters the Devil before collecting all six items, the player loses and is taken to Hell. If the player collects all six items before encountering the Devil, the player defeats the Devil and reaches Heaven.
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
-
+1. Church: Start room
+2. Bible Study Room
+3. Prayer Room
+4. Faith Room
+5. Worship Room
+6. Armor Room
+7. Light Room
+8. Hell - The Devil — villain
+9. Heaven - Final Destination
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Bible: Item
+2. Prayer: Item
+3. Faith: Item
+4. Worship: Item
+5. Armor: Item
+6. Lamp: Item
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Devil is the villain in my game. He is trying to stop the player from completing their journey of faith and reaching Heaven. If the player encounters the Devil before collecting all six items, the player loses the game and is taken to Hell.
 
 ## Storyboard and Map Check
 
